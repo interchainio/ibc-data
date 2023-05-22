@@ -7,3 +7,5 @@ Repo for sharing tools/resources to access data related to IBC.
 
 - **ibc-go_chain-versions.py:** Web scraping file that returns the ibc-go version of 47 IBC-enabled chains.
 
+- **ica-enabled-chains.py:** Web scraping file that provides info on which chains have enabled the ICA-controller or host functionality. Returns data for 38 IBC-enabled chains.
+
