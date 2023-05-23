@@ -9,3 +9,5 @@ Repo for sharing tools/resources to access data related to IBC.
 
 - **ica-enabled-chains.py:** Web scraping file that provides info on which chains have enabled the ICA-controller or host functionality. Returns data for 38 IBC-enabled chains.
 
+- **relayer-fees.py:** Returns data on fees paid by relayers on the selected chain.
+
